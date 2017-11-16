@@ -1,0 +1,14 @@
+Requirements:
+- The heat camera could be expensive, and will not work for avalanche victims or in snowstorms, as it only takes the temperature of the 
+surface, and therefore only of the snow.
+- Good idea, however, would be an avalanche transmitter, which can find the general direction of the transmitter and also knows the 
+strength. This would be very useful if it were included in the robot so it can work automatically.
+- It will have a particular way to dig in the snow - in the front it will have some sort of horizontal brush that spins on a motor to 
+break up snow and clear it away, with a sort of vacuum right behind it to clear the snow.
+- The robot should probably have a heating feature (this isn’t absolutely necessary, but a good idea)
+- It should be lightweight and easily movable, so rescuers can carry it on their back to ski or snowboard quickly to the avalanche 
+location
+- Probably treadmills to move around in the snow, with skis in the front for fast travel.
+- If the avalanche transmitter is integrated into the robot, the robot should have a screen on its back showing where the signal is.
+- The robot should be able to switch to manual mode, with a screen showing the state of the robot (temperature, battery, etc.), as well 
+as where the avalanche transmitter is pointing.
